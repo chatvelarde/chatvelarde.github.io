@@ -4,7 +4,7 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2021
-       kevin soto navarro 
+       VELARDE AGUILERA AXEL GRUPO IC42M
       </p>`;
   }
 }
