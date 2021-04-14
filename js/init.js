@@ -8,11 +8,11 @@
  * servidor. */
 // @ts-ignore
 firebase.initializeApp({
-    apiKey: "AIzaSyB2SD3RwDHuBtR7ytHun2dKtxD5j1m65XQ",
-    authDomain: "kevinproyecto43.firebaseapp.com",
-    projectId: "kevinproyecto43",
-    storageBucket: "kevinproyecto43.appspot.com",
-    messagingSenderId: "230196695011",
-    appId: "1:230196695011:web:678f03d1d121cdf4b85ad6",
-    measurementId: "G-MGDRDPR9JC"
+   apiKey: "AIzaSyD3uG_fTsHHrL7I3nU2NUVEHIibs5cUYW4",
+    authDomain: "chatvelarde42.firebaseapp.com",
+    projectId: "chatvelarde42",
+    storageBucket: "chatvelarde42.appspot.com",
+    messagingSenderId: "936461782150",
+    appId: "1:936461782150:web:154254e7ea461907f45507",
+    measurementId: "G-HQY6PKQD46"
 });
